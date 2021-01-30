@@ -1,7 +1,25 @@
 ### Hi there 👋
 -----------------
 
-My name is Aristotelis and I work as a Software Engineer. My background is in Physics and Math. Particularly Computational Physics.
+My name is Aristotelis and I work as a Software Engineer. My background is in Physics and Math, particularly Computational and Environmental Physics.
+
+I am naturally curious and I try to keep up with scientific and technological advances in any area that draws my attention.
+
+
+### Tools and Technologies 🛠️
+-----------------
+
+OS
+Code
+Tools 
+Apps
+
+### Fun facts ⚡ 
+----------------
+
+- First PC: 💻 [Toshiba Satellite 1700-200](https://uk.dynabook.com/discontinued-products/satellite-1700-200/) (back @ 2000)
+- First PC Game: 🕹️ [Prince of Persia](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game))
+
 
 You can find me on [![LinkedIn][1.1]][1].
 
@@ -12,6 +30,7 @@ You can find me on [![LinkedIn][1.1]][1].
 
 [1]: https://www.linkedin.com/in/aliakatas
 [1.1]: linkedin.svg
+
 
 
 <!--
