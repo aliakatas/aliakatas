@@ -43,6 +43,14 @@ I am naturally curious and I try to keep up with scientific and technological ad
 
 - First PC: 💻 [Toshiba Satellite 1700-200](https://uk.dynabook.com/discontinued-products/satellite-1700-200/) (back @ 2000)
 - First PC Game: 🕹️ [Prince of Persia](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game))
+- Enjoy reading mystery or crime novels.
+
+----------------
+
+### GitHub Stats 📈
+
+![Aristotelis' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aliakatas&theme=cobalt)
+
 
 ----------------
 
@@ -61,17 +69,3 @@ https://raw.githubusercontent.com/aliakatas/aliakatas/main/main_icons/linkedin.s
 [1.1]: <img src="https://raw.githubusercontent.com/aliakatas/aliakatas/main/main_icons/linkedin.svg?token=ADGEJE3G3FKJ42ZZD2ZB6STAC2B4E" width="30px">
 
 
-<!--
-**aliakatas/aliakatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
