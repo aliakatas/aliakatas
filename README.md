@@ -43,9 +43,10 @@ I am naturally curious and I try to keep up with scientific and technological ad
 
 - First PC: 💻 [Toshiba Satellite 1700-200](https://uk.dynabook.com/discontinued-products/satellite-1700-200/) (back @ 2000)
 - First PC Game: 🕹️ [Prince of Persia](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game))
-- Enjoy reading mystery or crime novels.
+- Enjoy reading mystery and crime novels.
 
 ----------------
+
 
 ### GitHub Stats 📈
 
@@ -57,15 +58,5 @@ I am naturally curious and I try to keep up with scientific and technological ad
 You can find me on [LinkedIn][1]
 
 
-
-
-
-
 [1]: https://www.linkedin.com/in/aliakatas
-<!-- [1.1]: https://raw.githubusercontent.com/aliakatas/aliakatas/main/main_icons/linkedin.svg?token=ADGEJE3G3FKJ42ZZD2ZB6STAC2B4E
-
-https://raw.githubusercontent.com/aliakatas/aliakatas/main/main_icons/linkedin.svg -->
-<!-- [1.1]: <img src="main_icons/linkedin.svg" width="30px"> -->
-[1.1]: <img src="https://raw.githubusercontent.com/aliakatas/aliakatas/main/main_icons/linkedin.svg?token=ADGEJE3G3FKJ42ZZD2ZB6STAC2B4E" width="30px">
-
 
