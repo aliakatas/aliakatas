@@ -22,7 +22,7 @@ I am naturally curious and I try to keep up with scientific and technological ad
 ![](https://img.shields.io/static/v1?label=Code&message=Matlab&color=informational&style=plastic&logo=mathworks) 
 ![](https://img.shields.io/static/v1?label=Code&message=Jupyter&color=informational&style=plastic&logo=jupyter) 
 ![](https://img.shields.io/static/v1?label=Code&message=SQLite&color=informational&style=plastic&logo=sqlite) <br>
-![](https://img.shields.io/static/v1?label=Code&message=Processing&color=informational&style=plastic&logo=Processing Foundation) 
+![](https://img.shields.io/static/v1?label=Code&message=Processing&color=informational&style=plastic&logo="Processing Foundation") 
 ![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=informational&style=plastic&logo=gnu%20bash) 
 ![](https://img.shields.io/static/v1?label=Shell&message=PowerShell&color=informational&style=plastic&logo=powershell) 
 
