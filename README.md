@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi, 👋
 
-My name is Aristotelis and I work as a Software Engineer at [Jacobs](https://www.jacobs.com/) in the [Flood Modeller](https://www.floodmodeller.com/) development team. 
-My background is in Physics and Math, particularly Computational and Environmental Physics.
-
-I am naturally curious and I try to keep up with scientific and technological advances in any area that draws my attention.
+I'm Aristotelis and I work as a Software Engineer at [Jacobs](https://www.jacobs.com/) in the [Flood Modeller](https://www.floodmodeller.com/) development team. 
+My background is in Physics and Maths, and I enjoy learning new technologies and automating everything.
 
 -----------------
 
@@ -36,15 +34,6 @@ I am naturally curious and I try to keep up with scientific and technological ad
 ![](https://img.shields.io/static/v1?label=Productivity&message=MSOffice&color=green&style=plastic&logo=microsoft%20office)
 ![](https://img.shields.io/static/v1?label=Productivity&message=LibreOffice&color=green&style=plastic&logo=libreoffice)
 ![](https://img.shields.io/static/v1?label=Productivity&message=Inkscape&color=green&style=plastic&logo=inkscape)
-
------------------
-
-
-### Fun facts ⚡ 
-
-- First PC: 💻 [Toshiba Satellite 1700-200](https://uk.dynabook.com/discontinued-products/satellite-1700-200/) (back @ 2000)
-- First PC Game: 🕹️ [Prince of Persia](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game))
-- Enjoy reading mystery and crime novels.
 
 ----------------
 
