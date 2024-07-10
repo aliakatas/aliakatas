@@ -40,7 +40,7 @@ My background is in Physics and Maths, and I enjoy learning new technologies and
 
 ### GitHub Stats 📈
 
-![GitHub stats](https://github-readme-stats-al.vercel.app/api/top-langs/?username=aliakatas&size_weight=0.5&count_weight=0.5&theme=cobalt)
+![GitHub stats](https://github-readme-stats-al.vercel.app/api/top-langs/?username=aliakatas&size_weight=0.4&count_weight=0.6&theme=cobalt)
 
 
 
