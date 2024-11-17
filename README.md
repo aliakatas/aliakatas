@@ -1,77 +1,34 @@
-<h1 align="center">Hi 👋, I'm Aristotelis</h1>
-<h3 align="center">Software Engineer and Physicist</h3>
+# 💫 About Me:
+👨‍💻 Software Engineer & Physicist
+🔭 I’m currently working on [Flood Modeller](https://www.floodmodeller.com/)<br>
+🌱 I’m currently learning [Docker](https://www.docker.com/) and [React](https://react.dev/)<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliakatas&label=Profile%20views&color=0e75b6&style=flat" alt="aliakatas" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliakatas) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliakatas&theme=onedark" alt="aliakatas" /></a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aliakatas&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aliakatas&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliakatas&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on [Flood Modeller](https://www.floodmodeller.com/)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aliakatas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 I’m currently learning **Docker**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aliakatas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliakatas" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aliakatas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=aliakatas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakatas&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="aliakatas" /></p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliakatas&show_icons=true&locale=en" alt="aliakatas" /></p>-->
-
-<!--### Hi, 👋
-
-I'm Aristotelis and I work as a Software Engineer at [Jacobs](https://www.jacobs.com/) in the [Flood Modeller](https://www.floodmodeller.com/) development team. 
-My background is in Physics and Maths, and I enjoy learning new technologies and automating everything.
-
------------------
-
-### Tools and Technologies 🛠️
-
-![](https://img.shields.io/static/v1?label=OS&message=Linux&color=success&style=plastic&logo=Linux) 
-![](https://img.shields.io/static/v1?label=OS&message=Windows&color=success&style=plastic&logo=Windows) 
-![](https://img.shields.io/static/v1?label=OS&message=MacOS&color=success&style=plastic&logo=Apple) 
-
-![](https://img.shields.io/static/v1?label=Code&message=C%2B%2b&color=informational&style=plastic&logo=c%2B%2B) 
-![](https://img.shields.io/static/v1?label=Code&message=Fortran&color=informational&style=plastic&logo=Fortran) 
-![](https://img.shields.io/static/v1?label=Code&message=Python&color=informational&style=plastic&logo=python) 
-![](https://img.shields.io/static/v1?label=Code&message=C&color=informational&style=plastic&logo=c) 
-![](https://img.shields.io/static/v1?label=Code&message=CUDA&color=informational&style=plastic&logo=nvidia) <br>
-![](https://img.shields.io/static/v1?label=Code&message=R&color=informational&style=plastic&logo=R) 
-![](https://img.shields.io/static/v1?label=Code&message=Matlab&color=informational&style=plastic&logo=mathworks) 
-![](https://img.shields.io/static/v1?label=Code&message=Jupyter&color=informational&style=plastic&logo=jupyter) 
-![](https://img.shields.io/static/v1?label=Code&message=SQLite&color=informational&style=plastic&logo=sqlite) <br>
-![](https://img.shields.io/static/v1?label=Code&message=Processing&color=informational&style=plastic&logo=processingfoundation) 
-![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=informational&style=plastic&logo=gnu%20bash) 
-![](https://img.shields.io/static/v1?label=Shell&message=PowerShell&color=informational&style=plastic&logo=powershell) 
-
-![](https://img.shields.io/static/v1?label=Tools&message=Visual%20Studio&color=yellow&style=plastic&logo=visual%20studio) 
-![](https://img.shields.io/static/v1?label=Tools&message=VS%20Code&color=yellow&style=plastic&logo=visual%20studio%20code) 
-![](https://img.shields.io/static/v1?label=Tools&message=Intel%20VTune&color=yellow&style=plastic&logo=intel) 
-![](https://img.shields.io/static/v1?label=Tools&message=nvprof&color=yellow&style=plastic&logo=nvidia) 
-
-![](https://img.shields.io/static/v1?label=Productivity&message=Azure&color=green&style=plastic&logo=microsoft%20azure)
-![](https://img.shields.io/static/v1?label=Productivity&message=Azure%20DevOps&color=green&style=plastic&logo=azure%20devops) <br>
-![](https://img.shields.io/static/v1?label=Productivity&message=MSOffice&color=green&style=plastic&logo=microsoft%20office)
-![](https://img.shields.io/static/v1?label=Productivity&message=LibreOffice&color=green&style=plastic&logo=libreoffice)
-![](https://img.shields.io/static/v1?label=Productivity&message=Inkscape&color=green&style=plastic&logo=inkscape)
-
-----------------
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-### GitHub Stats 📈
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliakatas&size_weight=0.5&count_weight=0.5)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliakatas)
-<!--![GitHub stats](https://github-readme-stats-al.vercel.app/api/top-langs/?username=aliakatas&size_weight=0.4&count_weight=0.6&theme=cobalt)-->
-
-
-<!--
-----------------
-
-You can find me on [LinkedIn][1]
 
 
 [1]: https://www.linkedin.com/in/aliakatas -->
