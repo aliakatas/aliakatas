@@ -1,7 +1,8 @@
 # 💫 About Me:
 👨‍💻 Software Engineer & Physicist<br>
-🔭 I’m currently working on [Flood Modeller](https://www.floodmodeller.com/)<br>
-🌱 I’m currently learning [Docker](https://www.docker.com/) and [React](https://react.dev/)<br>
+🔭 Working at [Flood Modeller](https://www.floodmodeller.com/)<br>
+🌱 Learning about [MCP](https://en.wikipedia.org/wiki/Model_Context_Protocol)<br>
+🛠️ Tinkering with my [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) mini-cluster🖧<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliakatas) 
@@ -43,6 +44,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
+![Podman](https://img.shields.io/badge/podman-%235b5b8c.svg?style=plastic&logo=podman&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) 
